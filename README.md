@@ -2,6 +2,12 @@
 
 This dataset contains five synthetic indoor scenes and their associated Gaussian reconstructions, reconstructed geometry, and reference and predicted walkable surfaces. The original scene geometry provides an independent reference for evaluating walkability recovered from reconstructed scenes.
 
+## Downloads
+
+The complete supplementary dataset is provided through the `dataset-v1` GitHub release. The dataset is divided into five scene archives (`Scene01.zip` to `Scene05.zip`) for convenient downloading.
+
+The release also includes `FiveScenes_Quest.apk`, a standalone Meta Quest build for demonstrating the reconstructed scenes and walkable navigation.
+
 ## Dataset contents
 
 | Component | Included | Location |
